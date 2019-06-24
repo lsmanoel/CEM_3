@@ -1,6 +1,6 @@
 ![](./img/CAR_AXIS.jpg)
 
-![](./img/CAR_INSIDE_1.jpg)
+![](./img/CAR_INSIDE.jpg)
 
 ![](./img/CAR_INSIDE_X.jpg)
 
