@@ -45,40 +45,40 @@
 ---
 # Rastreamento
 ## Motor tipo 1 - rotor livre
-![](./High-Impedance/220A0001.jpg)
+![](./High-Impedance/220A0001.BMP)
 
 ## Motor tipo 1 - rotor travado
-![](./High-Impedance/220A0002.jpg)
+![](./High-Impedance/220A0002.BMP)
 
 ## Motor tipo 2 - rotor livre
-![](./High-Impedance/220A0003.jpg)
+![](./High-Impedance/220A0003.BMP)
 
 ## Motor tipo 2 - rotor travado
-![](./High-Impedance/220A0004.jpg)
+![](./High-Impedance/220A0004.BMP)
 
 ## buck - rotor livre
-![](./High-Impedance/220A0005.jpg)
+![](./High-Impedance/220A0005.BMP)
 
 ## buck - rotor travado
-![](./High-Impedance/220A0006.jpg)
+![](./High-Impedance/220A0006.BMP)
 
 ## buck - rotor livre
-![](./High-Impedance/220A0007.jpg)
+![](./High-Impedance/220A0007.BMP)
 
 ## ...
-![](./High-Impedance/220A0008.jpg)
+![](./High-Impedance/220A0008.BMP)
 
 ## buck - rotor travado
-![](./High-Impedance/220A0009.jpg)
+![](./High-Impedance/220A0009.BMP)
 
 ## ...
-![](./High-Impedance/220A0010.jpg)
+![](./High-Impedance/220A0010.BMP)
 
 ## cristal do MCU
-![](./High-Impedance/220A0011.jpg)
+![](./High-Impedance/220A0011.BMP)
 
 ## MCU
-![](./High-Impedance/220A0012.jpg)
+![](./High-Impedance/220A0012.BMP)
 
 
 
