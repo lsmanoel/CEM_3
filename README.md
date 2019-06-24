@@ -29,6 +29,12 @@
 
 ---
 # Teste de emissão de ruído **irradiado**
+![](./img/CAR_INSIDE_X.jpg)
+
+![](./img/CAR_INSIDE_Y.jpg)
+
+![](./img/CAR_INSIDE_Z.jpg)
+
 ## Bateria - X - Sem correlação de espaço aberto:
 ![](./07.06/car_bat_X_lucas_joao.PNG)
 
@@ -37,10 +43,6 @@
 
 ## Fonte Linear - XYZ - Com correlação de espaço aberto:
 ![](./07.06/car_XYZ_lucas_joao.PNG)
-
-![](./img/CAR_INSIDE_Y.jpg)
-
-![](./img/CAR_INSIDE_Z.jpg)
 
 ---
 # Rastreamento
@@ -73,11 +75,3 @@
 
 ## MCU
 ![](./High-Impedance/220A0012.BMP)
-
-
-
-
-
-
-
-
