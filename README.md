@@ -38,9 +38,9 @@
 ## Fonte Linear - XYZ - Com correlação de espaço aberto:
 ![](./07.06/car_XYZ_lucas_joao.PNG)
 
-![](./07.06/CAR_INSIDE_Y.jpg)
+![](./img/CAR_INSIDE_Y.jpg)
 
-![](./07.06/CAR_INSIDE_Z.jpg)
+![](./img/CAR_INSIDE_Z.jpg)
 
 ---
 # Rastreamento
