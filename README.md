@@ -44,23 +44,23 @@
 
 ---
 # Rastreamento
-## Motor tipo 1 - rotor livre
+## Motor tipo 1 (preto) - rotor livre
 ![](./High-Impedance/220A0001.BMP)
 
-## Motor tipo 1 - rotor travado
+## Motor tipo 1 (preto) - rotor travado
 ![](./High-Impedance/220A0002.BMP)
 
-## Motor tipo 2 - rotor livre
+## Motor tipo 2 (branco) - rotor livre
 ![](./High-Impedance/220A0003.BMP)
 
-## Motor tipo 2 - rotor travado
+## Motor tipo 2 (branco) - rotor travado
 ![](./High-Impedance/220A0004.BMP)
 
 ## buck - rotor livre
-![](./High-Impedance/220A0005.BMP)
-
-## buck - rotor livre
 ![](./High-Impedance/220A0007.BMP)
+
+## buck - rotor travado
+![](./High-Impedance/220A0005.BMP)
 
 ## buck - rotor travado
 ![](./High-Impedance/220A0006.BMP)
