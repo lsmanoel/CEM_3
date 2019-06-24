@@ -25,12 +25,14 @@
 ![](./31.05/R10_1A_SWT_17_38_31_05_fonte_inova.bmp)
 
 ## CAR LOAD - Fonte Chaveada - Inova:
-![](./31.05/CAR_06A_SWT_19_07_07_06_fonte_inova.bmp)
+![](./07.06/CAR_06A_SWT_19_07_07_06_fonte_inova.bmp)
 
 ---
 # Teste de emissão de ruído **irradiado**
+## Bateria - X:
 ![](./07.06/car_bat_X_lucas_joao.PNG)
 
+## Fonte Linear - :
 ![](./07.06/car_lucas_joao.PNG)
 
 ![](./07.06/car_XYZ_lucas_joao.PNG)
