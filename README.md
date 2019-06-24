@@ -29,12 +29,13 @@
 
 ---
 # Teste de emissão de ruído **irradiado**
-## Bateria - X:
+## Bateria - X - Sem correlação de espaço aberto:
 ![](./07.06/car_bat_X_lucas_joao.PNG)
 
-## Fonte Linear - :
+## Fonte Linear - Com correlação de espaço aberto::
 ![](./07.06/car_lucas_joao.PNG)
 
+## Fonte Linear - XYZ - Com correlação de espaço aberto:
 ![](./07.06/car_XYZ_lucas_joao.PNG)
 
 ![](./07.06/CAR_INSIDE_Y.jpg)
