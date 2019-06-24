@@ -59,11 +59,11 @@
 ## buck - rotor livre
 ![](./High-Impedance/220A0005.BMP)
 
-## buck - rotor travado
-![](./High-Impedance/220A0006.BMP)
-
 ## buck - rotor livre
 ![](./High-Impedance/220A0007.BMP)
+
+## buck - rotor travado
+![](./High-Impedance/220A0006.BMP)
 
 ## buck - rotor travado
 ![](./High-Impedance/220A0009.BMP)
