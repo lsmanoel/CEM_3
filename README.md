@@ -6,7 +6,7 @@
 
 ![RV32M Standard Extension](./img/CAR_INSIDE_Y.jpg)
 
-![RV32M Standard Extension](./img/CAR_INSIDE_Y.jpg)
+![RV32M Standard Extension](./img/CAR_INSIDE_Z.jpg)
 
 ![RV32M Standard Extension](./img/CAR_LOAD.jpg)
 
