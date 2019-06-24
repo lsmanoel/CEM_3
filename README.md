@@ -42,9 +42,43 @@
 
 ![](./07.06/CAR_INSIDE_Z.jpg)
 
+---
+# Rastreamento
+## Motor tipo 1 - rotor livre
+![](./High-Impedance/220A0001.jpg)
 
+## Motor tipo 1 - rotor travado
+![](./High-Impedance/220A0002.jpg)
 
+## Motor tipo 2 - rotor livre
+![](./High-Impedance/220A0003.jpg)
 
+## Motor tipo 2 - rotor travado
+![](./High-Impedance/220A0004.jpg)
+
+## buck - rotor livre
+![](./High-Impedance/220A0005.jpg)
+
+## buck - rotor travado
+![](./High-Impedance/220A0006.jpg)
+
+## buck - rotor livre
+![](./High-Impedance/220A0007.jpg)
+
+## ...
+![](./High-Impedance/220A0008.jpg)
+
+## buck - rotor travado
+![](./High-Impedance/220A0009.jpg)
+
+## ...
+![](./High-Impedance/220A0010.jpg)
+
+## cristal do MCU
+![](./High-Impedance/220A0011.jpg)
+
+## MCU
+![](./High-Impedance/220A0012.jpg)
 
 
 
