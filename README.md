@@ -65,14 +65,8 @@
 ## buck - rotor livre
 ![](./High-Impedance/220A0007.BMP)
 
-## ...
-![](./High-Impedance/220A0008.BMP)
-
 ## buck - rotor travado
 ![](./High-Impedance/220A0009.BMP)
-
-## ...
-![](./High-Impedance/220A0010.BMP)
 
 ## cristal do MCU
 ![](./High-Impedance/220A0011.BMP)
